@@ -1,0 +1,4 @@
+# RIDGA sherpa-mini
+This is a mod of Churls work from Annex Engineering
+
+It has been changed to work with the 3mm bearings that come with a Bondtech RIDGA kit and not have the issues with gears not fully overlapping.
