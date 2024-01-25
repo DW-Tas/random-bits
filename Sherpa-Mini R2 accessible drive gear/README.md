@@ -3,4 +3,6 @@ This is a mod of the Sherpa-Mini R2 from Annex Engineering https://github.com/An
 
 It falls under the Annex Engineering [license terms](LICENSE.md) 
 
+ECAS or standard versions available.
+
 ![Accessible Gear](image.png)
